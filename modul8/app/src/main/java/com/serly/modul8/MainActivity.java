@@ -1,10 +1,13 @@
 package com.serly.modul8;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
@@ -22,6 +25,8 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+import static com.serly.modul8.R.id.menuTambahTransPembelian;
+
 public class MainActivity extends AppCompatActivity {
 
 //    Button btGet, btUpdate, btInsert, btDelete;
@@ -31,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
+    private MenuItem item;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,9 +73,12 @@ public class MainActivity extends AppCompatActivity {
                         // Log error
                         Log.e("Retrofit Get", t.toString());
                     }
+
                 });
             }
         });
+
+
 
 //        btUpdate.setOnClickListener(new View.OnClickListener() {
 //            @Override
@@ -128,4 +137,30 @@ public class MainActivity extends AppCompatActivity {
 //
 //
     }
- }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_layout, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        Intent mIntent;
+        switch (item.getItemId()) {
+
+            case menuTambahTransPembelian:
+                mIntent = new Intent(this, LayarDetail.class);
+                startActivity(mIntent);
+                return true;
+
+            case R.id.menuListPembeli:
+                mIntent = new Intent(this, LayarListPembeli.class);
+                startActivity(mIntent);
+                return true;
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+}
