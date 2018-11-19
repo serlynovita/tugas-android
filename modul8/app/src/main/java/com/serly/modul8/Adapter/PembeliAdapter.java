@@ -1,6 +1,6 @@
-package com.serly.modul8;
+package com.serly.modul8.Adapter;
 
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.serly.modul8.LayarEditPembeli;
 import com.serly.modul8.Model.Pembeli;
+import com.serly.modul8.R;
 
 import java.util.List;
 
@@ -47,6 +49,19 @@ import java.util.List;
                 Glide.with(holder.itemView.getContext()).load(R.drawable.default_user).into(holder
                         .mPhotoURL);
             }
+
+            holder.itemView.setOnClickListener(new View.OnClickListener(){
+                @Override
+                public void onClick(View view){
+                    Intent intent = new Intent(view.getContext(), LayarEditPembeli.class);
+                    intent.putExtra("id_pembeli", listPembeli.get(position).getIdPembeli());
+                    intent.putExtra("nama", listPembeli.get(position).getNama());
+                    intent.putExtra("alamat", listPembeli.get(position).getAlamat());
+                    intent.putExtra("telp", listPembeli.get(position).getTelp());
+                    intent.putExtra("photo_url", listPembeli.get(position).getPhotoUrl());
+                    view.getContext().startActivity(intent);
+                }
+            });
         }
 
         @Override

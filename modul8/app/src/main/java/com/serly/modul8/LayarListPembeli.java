@@ -1,6 +1,7 @@
 package com.serly.modul8;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,6 +11,7 @@ import android.view.View;
 import android.widget.Button;
 
 //import com.serly.modul8.Adapter.PembeliAdapter;
+import com.serly.modul8.Adapter.PembeliAdapter;
 import com.serly.modul8.Model.GetPembeli;
 import com.serly.modul8.Model.Pembeli;
 import com.serly.modul8.Rest.ApiClient;
@@ -28,7 +30,8 @@ public class LayarListPembeli extends AppCompatActivity {
     RecyclerView.LayoutManager mLayoutManager;
     Context mContext;
     ApiInterface mApiInterface;
-    Button btGet;
+//    Button btGet;
+    Button btAddData, btGet;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,6 +42,7 @@ public class LayarListPembeli extends AppCompatActivity {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         mLayoutManager = new LinearLayoutManager(mContext);
         mRecyclerView.setLayoutManager(mLayoutManager);
+        btAddData = (Button) findViewById(R.id.btAddData);
         btGet = (Button) findViewById(R.id.btGet);
 
         btGet.setOnClickListener(new View.OnClickListener() {
@@ -62,6 +66,14 @@ public class LayarListPembeli extends AppCompatActivity {
                 });
             }
         });
+        btAddData.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(mContext, LayarInsertPembeli.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }
 

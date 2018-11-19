@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\271a98ca44c65ffd5346f8f28ae77625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6133ae077e33cf9c3a9984f6339fa462\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\819bea7b8ec2695623b3e5d84fd1cb0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\663849fd945fab699c0b8cb265701c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9521fdea5c2dfb9328febd54a57725e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b2446fed6780cc31588ebe84796e7701\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c1ee7837b9030be8ad9ee57a34498259\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab85650252cc2fd13379979ac3192503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d720cf81c1fdd4e865252d76fe71c73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c3120b9c54049236d146297898ef4aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a68bfa90eba877fba8939db0b3aa067a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\56db13cb165554adb7361d160cdaef6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\06b10a55b9a54466b305f2dc77e01c85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89ba3c5daab1ab6c8d35039c473c195b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fb2802b76476b3d8aac7018bb6a93552\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\701e18be2003f7ac3d1fd9c2e949022e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\147b9f352d297bc85efb5727dd3851d1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd3a5acd28159aa6c936fbdd26289bd9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4938075556eaba986a67aaf20853a6eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b73dab182c0079163fe5a6e9c51c802e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33d694efa76186464a063deb828e576a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\309b61327905fa9efdc1940b7ed05aa4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f71e83fd487c24b5a267ef171d9f776b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ab4461e2c16a4ec2a9d2fc0208e74d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\400bb1ff121a51ce4372395a68843841\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c8eb74f29417d973934a39d660c9d61\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cd66d7aaaf0d2ddf53a8be011bdbee55\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6133ae077e33cf9c3a9984f6339fa462\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6133ae077e33cf9c3a9984f6339fa462\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\147b9f352d297bc85efb5727dd3851d1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\147b9f352d297bc85efb5727dd3851d1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.serly.modul8.MainActivity
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:17:9-49
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.serly.modul8.LayarDetail
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:23:9-25:54
+	android:label
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:24:13-40
+activity#com.serly.modul8.LayarListPembeli
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:26:9-28:44
+	android:label
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:27:13-45
+activity#com.serly.modul8.LayarInsertPembeli
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:29:9-31:46
+	android:label
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:31:13-43
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.serly.modul8.LayarEditPembeli
+ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:32:9-34:44
+	android:label
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:34:13-41
+	android:name
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml:33:13-45
+uses-sdk
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\271a98ca44c65ffd5346f8f28ae77625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\271a98ca44c65ffd5346f8f28ae77625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6133ae077e33cf9c3a9984f6339fa462\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6133ae077e33cf9c3a9984f6339fa462\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\819bea7b8ec2695623b3e5d84fd1cb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\819bea7b8ec2695623b3e5d84fd1cb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\663849fd945fab699c0b8cb265701c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\663849fd945fab699c0b8cb265701c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9521fdea5c2dfb9328febd54a57725e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9521fdea5c2dfb9328febd54a57725e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b2446fed6780cc31588ebe84796e7701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b2446fed6780cc31588ebe84796e7701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c1ee7837b9030be8ad9ee57a34498259\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c1ee7837b9030be8ad9ee57a34498259\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab85650252cc2fd13379979ac3192503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab85650252cc2fd13379979ac3192503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d720cf81c1fdd4e865252d76fe71c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0d720cf81c1fdd4e865252d76fe71c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c3120b9c54049236d146297898ef4aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c3120b9c54049236d146297898ef4aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a68bfa90eba877fba8939db0b3aa067a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a68bfa90eba877fba8939db0b3aa067a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\56db13cb165554adb7361d160cdaef6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\56db13cb165554adb7361d160cdaef6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\06b10a55b9a54466b305f2dc77e01c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\06b10a55b9a54466b305f2dc77e01c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89ba3c5daab1ab6c8d35039c473c195b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89ba3c5daab1ab6c8d35039c473c195b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fb2802b76476b3d8aac7018bb6a93552\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fb2802b76476b3d8aac7018bb6a93552\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\701e18be2003f7ac3d1fd9c2e949022e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\701e18be2003f7ac3d1fd9c2e949022e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba79d5d3d06e1546d59704bafafea732\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\147b9f352d297bc85efb5727dd3851d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\147b9f352d297bc85efb5727dd3851d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd3a5acd28159aa6c936fbdd26289bd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fd3a5acd28159aa6c936fbdd26289bd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4938075556eaba986a67aaf20853a6eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4938075556eaba986a67aaf20853a6eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b73dab182c0079163fe5a6e9c51c802e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b73dab182c0079163fe5a6e9c51c802e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33d694efa76186464a063deb828e576a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33d694efa76186464a063deb828e576a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\309b61327905fa9efdc1940b7ed05aa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\309b61327905fa9efdc1940b7ed05aa4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f71e83fd487c24b5a267ef171d9f776b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f71e83fd487c24b5a267ef171d9f776b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ab4461e2c16a4ec2a9d2fc0208e74d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b7ab4461e2c16a4ec2a9d2fc0208e74d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\400bb1ff121a51ce4372395a68843841\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\400bb1ff121a51ce4372395a68843841\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c8eb74f29417d973934a39d660c9d61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2c8eb74f29417d973934a39d660c9d61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cd66d7aaaf0d2ddf53a8be011bdbee55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\serly\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cd66d7aaaf0d2ddf53a8be011bdbee55\AndroidManifest.xml:20:5-44
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\Github\tugas-android\modul8\app\src\main\AndroidManifest.xml
